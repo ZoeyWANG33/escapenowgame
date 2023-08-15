@@ -1,1 +1,8 @@
 # escapenowgame
+The game ESCAPE NOW is an adventure game that people need to play it blindly. All the elements on the map will be covered by the stones and people need to use the bullet to break the stone, find out what is behind it and try to get the secret key to escape from the door. 
+
+There are normal mushroom(the red one), toxic mushroom(the yellow one) and magic bottle which can present you an extra life. They will get in your way on finding the secret key. Left click the mouse to start and to restart the game when you died or escaped. Use the WASD key to shot the bullet and the Arrow keys to move the player.
+
+The game is more complicated than I thought before. All the movement or behavior I need to achieve in the game needs to be coded for hours, even for a simple collecting behavior. But what I really learn from the project is that I started to realize how convenient it is to use all the techniques I learned at the second half of the term. The code I wrote before was simple so at that time I was really confused about the purpose of doing so( I even thought all the techniques were making my code more complicated). But when I was doing the final project, the benefits started to show up. I really love how organized it is now. When I want to debug it, it is much clearer to check all the codes. The real challenge is always the time. I need to go through every line for many times and check out the demos while I was coding. Coding is time-consuming for me since I'm still not proficient at writing code quickly.
+
+I’m satisfied with what it looks like now, but I will improve the illustration later since it looks like an old online game I played when I was young and also try to be more organized with the code’s structure.
